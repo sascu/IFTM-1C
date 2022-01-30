@@ -1,7 +1,8 @@
-## NÂO COPIEM PARA O BEM DO SEU APRENDIZADO!
+## *NÂO COPIEM PARA O BEM DO SEU APRENDIZADO!*
 
 
-* Primeiro ano nota: 
+### Primeiro ano notas: 
+
 
 * Linguagem C - 01  | TOTAL
 * Linguagem C - 02  | TOTAL
