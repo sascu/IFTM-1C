@@ -1,4 +1,4 @@
-## *NÂO COPIEM PARA O BEM DO SEU APRENDIZADO!*
+## *NÃO COPIEM PARA O BEM DO SEU APRENDIZADO!*
 
 
 ### Primeiro ano notas: 
